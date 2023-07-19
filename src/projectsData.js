@@ -12,10 +12,10 @@ const projects = [
     },
     {
         id: 2,
-        name: '',
+        name: 'Birthday Buddy',
         image: birthdaybuddy,
-        github: 'https://github.com/bragceo/Career_Crusader',
-        deploy: 'https://career-crusaders-mvp.herokuapp.com/'
+        github: 'https://github.com/juliaghany/BirthdayBuddy',
+        deploy: 'https://birthday-buddy.herokuapp.com/'
     },
     {
         id: 3,
